@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\gettingStarted.props" />
+</Project>
